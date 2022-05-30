@@ -3,6 +3,7 @@ class Main1 {
   public static void main(String[] args) {
     
     System.out.println("Enter two numbers");
+    System.out.println("Enter two numbers");
     int first = 10;
     int second = 20;
     
